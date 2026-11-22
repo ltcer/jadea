@@ -1,0 +1,5 @@
+[project]
+name = "tiny-hub"
+version = "1.0.0"
+description = "A small utility library."
+requires-python = ">=3.9"
